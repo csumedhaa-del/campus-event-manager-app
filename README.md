@@ -1,17 +1,41 @@
-# miniproj2
+# Campus Event Manager App
 
-A new Flutter project.
+## Project Overview
+The Campus Event Manager App is a Flutter-based mobile application designed to help students manage and explore campus events. The application allows users to view a list of events, add new events using a form, and delete events dynamically.
 
-## Getting Started
+This project demonstrates fundamental concepts of Flutter and Dart including widget-based UI design, state management using StatefulWidget, collections using lists, and form input handling.
 
-This project is a starting point for a Flutter application.
+## Features
+- Display a list of campus events
+- Add new events using an input form
+- Delete events from the list
+- View event details
+- Display total number of events
+- Responsive user interface
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- Flutter
+- Dart
+- Material UI
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## How to Run the App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository
+```
+git clone https://github.com/csumedhaa-del/campus-event-manager-app.git
+```
+
+2. Navigate to the project folder
+```
+cd campus-event-manager-app
+```
+
+3. Install dependencies
+```
+flutter pub get
+```
+
+4. Run the application
+```
+flutter run
+```
